@@ -22,7 +22,7 @@
 <h2 align="center">🔥 Current Activities</h2>
 
 - 🌱 Learning **Next.js & System Design**.
-- 🚀 Developing **InnoSpot** (A platform like ProductHunt).
+- 🚀 Developing **JUST Debate Club** (Official Dynamic Website for our University's Debate club).
 - 💻 Improving **Competitive Programming** skills.
 - 🏆 Preparing for **ICPC & Codeforces Contests**.
 
@@ -76,9 +76,8 @@
 
 <h2 align="center">🏆 Competitive Programming Profiles</h2>
 <p align="center">
-  <a href="https://codeforces.com/profile/your-handle"><img src="https://img.shields.io/badge/Codeforces-%23FFCC00.svg?&style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-  <a href="https://www.codechef.com/users/your-handle"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-  <a href="https://www.leetcode.com/your-handle"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/Depressed_C0der"><img src="https://img.shields.io/badge/Codeforces-%23FFCC00.svg?&style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://www.leetcode.com/Depressed_C0der"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
 
 ---

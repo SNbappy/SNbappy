@@ -8,7 +8,8 @@
 
 ---
 
-## 🧑‍💻 **About Me**
+<h2 align="center">🧑‍💻 About Me</h2>
+
 - 🎓 **Computer Science student** passionate about problem-solving & software development.
 - 💡 **Exploring new technologies** and working on real-world projects.
 - ⚡ **Competitive Programmer** (Pupil on Codeforces, aiming for Expert).
@@ -18,7 +19,8 @@
 
 ---
 
-## 🔥 **Current Activities**
+<h2 align="center">🔥 Current Activities</h2>
+
 - 🌱 Learning **Next.js & System Design**.
 - 🚀 Developing **InnoSpot** (A platform like ProductHunt).
 - 💻 Improving **Competitive Programming** skills.
@@ -26,31 +28,32 @@
 
 ---
 
-## 🚀 **Tech Stack & Skills**
-### **Languages**
-<p align="left">
+<h2 align="center">🚀 Tech Stack & Skills</h2>
+
+<h3 align="center">Languages</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,c" />
 </p>
 
-### **Frontend**
-<p align="left">
+<h3 align="center">Frontend</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" />
 </p>
 
-### **Backend**
-<p align="left">
+<h3 align="center">Backend</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
-### **Tools & Other Skills**
-<p align="left">
+<h3 align="center">Tools & Other Skills</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
 </p>
 
 ---
 
-## 🌐 **Connect with Me**
-<p align="left">
+<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
   <a href="https://github.com/SNbappy"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/md-sabbir-hossain-bappy-454950314/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:bappy.just@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -58,7 +61,7 @@
 
 ---
 
-## 📊 **GitHub & Competitive Programming Stats**
+<h2 align="center">📊 GitHub & Competitive Programming Stats</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SNbappy&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
@@ -71,8 +74,8 @@
 
 ---
 
-### 🏆 **Competitive Programming Profiles**
-<p align="left">
+<h2 align="center">🏆 Competitive Programming Profiles</h2>
+<p align="center">
   <a href="https://codeforces.com/profile/your-handle"><img src="https://img.shields.io/badge/Codeforces-%23FFCC00.svg?&style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
   <a href="https://www.codechef.com/users/your-handle"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
   <a href="https://www.leetcode.com/your-handle"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
@@ -80,4 +83,4 @@
 
 ---
 
-⭐ **Feel free to connect & collaborate!** 😊
+<h2 align="center">⭐ Feel free to connect & collaborate! 😊</h2>

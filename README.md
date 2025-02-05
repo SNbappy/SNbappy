@@ -3,8 +3,8 @@
   <img src="https://github.com/SNbappy/SNbappy/blob/main/github-banner.png?raw=true" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm Md. Sabbir Hossain Bappy 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | Competitive Programmer | Tech Enthusiast</h3>
+<h1 align="center">Md. Sabbir Hossain Bappy</h1>
+<h3 align="center">🚀 Full Stack Developer(MERN) | Competitive Programmer | Tech Enthusiast</h3>
 
 ---
 

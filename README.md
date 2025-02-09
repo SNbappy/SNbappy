@@ -91,4 +91,6 @@
 
 ---
 
-<h2 align="center">⭐ Feel free to connect & collaborate! 😊</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=1E90FF&center=true&vCenter=true&width=500&lines=⭐+Feel+free+to+connect+%26+collaborate!+😊" alt="Typing animation">
+</p>

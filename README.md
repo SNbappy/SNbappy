@@ -64,7 +64,7 @@
 ##  🔥GitHub Activity Streak
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Its-Shojib&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="800" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SNbappy&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="800" />
   </a>
 </div>
 

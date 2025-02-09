@@ -61,17 +61,26 @@
 
 ---
 
-<h2 align="center">📊 GitHub & Competitive Programming Stats</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SNbappy&theme=dark&hide_border=false" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SNbappy&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNbappy&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
+##  🔥GitHub Activity Streak
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Its-Shojib&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="800" />
+  </a>
+</div>
 
+<hr/>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SNbappy&label=Profile%20views&color=0e75b6&style=flat" alt="SNbappy" /></p>
+
+##  📚Summary
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SNbappy&theme=highcontrast" width="900"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SNbappy&theme=highcontrast" width="420" height="240"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SNbappy&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Its-Shojib" width="420" height="250"/>
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SNbappy&theme=highcontrast" width="420"/> -->
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SNbappy&theme=highcontrast&utcOffset=8" width="420"/>
+<img hight="600" src="https://github-readme-stats.vercel.app/api/top-langs?username=SNbappy&show_icons=true&locale=en&layout=compact&theme=highcontrast" width="420" hight='500'/> -->
+</div>
 ---
 
 <h2 align="center">🏆 Competitive Programming Profiles</h2>

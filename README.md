@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/SNbappy/SNbappy/blob/main/github-banner1.png?raw=true" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/SNbappy/SNbappy/refs/heads/main/linkedin-cover.png?raw=true" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Md. Sabbir Hossain Bappy</h1>
